@@ -4,7 +4,7 @@ import java.io.PrintStream;
 import java.net.HttpURLConnection;
 
 import java.net.URL;
-//发的回复的好的啊实打实大
+//发的回复的好的啊实打实大65465465
 
     public class jieKo {
         public static void main(String[] args) {
@@ -13,7 +13,7 @@ import java.net.URL;
                 String load = restUtil.load("", "");
                 System.out.println(load);
             } catch (Exception e) {
-
+//safsa
                 e.printStackTrace();
             }
         }
